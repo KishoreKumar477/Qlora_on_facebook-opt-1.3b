@@ -62,4 +62,4 @@ Requires a CUDA GPU (`bitsandbytes` 4-bit quantization does not run on CPU). Run
 
 ## Related
 
-See the companion [LoRA/DoRA fine-tuning project](#) (DistilBERT/IMDb sentiment classification) for the underlying LoRA/DoRA theory and a smaller-scale comparison.
+See the companion [LoRA/DoRA fine-tuning project](#https://github.com/KishoreKumar477/DistilBERT-peft-imdb) (DistilBERT/IMDb sentiment classification) for the underlying LoRA/DoRA theory and a smaller-scale comparison.
