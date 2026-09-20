@@ -86,5 +86,5 @@ Requires a CUDA GPU (`bitsandbytes` 4-bit quantization does not run on CPU). Run
 - A light fine-tune (300 examples, 1 epoch) reliably shifts response *format and style*, but not factual accuracy or stopping behavior — a concrete reminder that fine-tuning and RAG solve different problems.
 ## Related
  
-See the companion [LoRA/DoRA fine-tuning project](#) (DistilBERT/IMDb sentiment classification) for the underlying LoRA/DoRA theory and a smaller-scale comparison.
+See the companion [LoRA/DoRA fine-tuning project](https://github.com/KishoreKumar477/DistilBERT-peft-imdb) (DistilBERT/IMDb sentiment classification) for the underlying LoRA/DoRA theory and a smaller-scale comparison.
  
